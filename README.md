@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Morty Dancing](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Morty Dancing](https://giphy.com/gifs/rick-and-morty-dance-e6tJpLvjY8jXa)
 
 ---
 🤯
-**_"I wanna da - I wanna dance in the …## ✨
+"I wanna da - I wanna dance in the ✨
 ~~<u>trend do tiktok</u>~~
 
 </div>
