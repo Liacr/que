@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock That Body - Meme do Morty</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Adicionando polyfill para Web Components no Firefox -->
+    <script src="https://unpkg.com/@webcomponents/webcomponentsjs@^2/webcomponents-loader.js"></script>
+    <!-- Script para carregar a animação do Morty dançando -->
+    <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="morty-container">
+            <dotlottie-wc src="https://lottie.host/c636e89d-3087-4215-96cb-1e8da0bd8063/eaFzgx9K2J.lottie"
+                style="width: 300px; height: 300px" speed="1" autoplay loop>
+            </dotlottie-wc>
+        </div>
+
+        <div class="letra-container">
+            <div id="letra-animada" class="letra-animada"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
